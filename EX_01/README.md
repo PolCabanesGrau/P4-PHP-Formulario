@@ -1,0 +1,2 @@
+- Demanem un nom per pantalla
+- Indiquem la longitud que té
